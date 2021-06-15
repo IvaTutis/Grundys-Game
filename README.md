@@ -1,5 +1,6 @@
 # Grundys-Game
 Artificial Intelligence project - alpha beta pruning
+
 Author: Iva Tutiš
 
 Na početku igre, postoji jedna hrpa objekata. Prvi igrač dijeli hrpu na dvije hrpe nejednakih veličina.
