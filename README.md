@@ -1,5 +1,6 @@
 # Grundys-Game
 Artificial Intelligence project - alpha beta pruning
+Author: Iva Tutiš
 
 Na početku igre, postoji jedna hrpa objekata. Prvi igrač dijeli hrpu na dvije hrpe nejednakih veličina.
 Igra završava kad ostanu samo hrpe s manje ili jednako dva objekta, jer je njih nemoguće podijeliti na
@@ -15,5 +16,4 @@ Sam kod je pisan u C++ jeziku, te sam ga osobno pokretala u QT Creator IDE-u, tj
 (primjetila sam da Codeblocks ima nekih problema pa je potrebno uključiti novije standarde pri kompajliranju)
 Protiv programa možete igrati preko pokretanja c++ koda, dakle diretno u terminalu (tekstualna interakcija implementirana).
 
-Hvala Vam na vremenu i sretno igranje, 
-Iva Tutiš
+Sretno igranje!
